@@ -17,5 +17,5 @@ export const personnalWebsite = {
     href: 'https://alexandre-dosreis.me/',
   },
   stack:
-    'ReactJS, NextJS, JWT Auth, Docker, CMS Directus, Github Actions, Markdown, MDX.',
+    'Astro, Typescript, Markdown, MDX, Tailwind.',
 }
